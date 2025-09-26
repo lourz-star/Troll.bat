@@ -212,6 +212,4 @@ echo taskkill /f /im mspaint.exe ^>nul 2^>^&1 >> "%USERPROFILE%\Desktop\RestoreF
 echo echo Settings restored! Please restart your computer. >> "%USERPROFILE%\Desktop\RestoreFavianCore.bat"
 echo pause >> "%USERPROFILE%\Desktop\RestoreFavianCore.bat"
 
-echo.
-echo Restore script created on desktop: RestoreFavianCore.bat
-echo.
+echo troll bitti geçmiş olsun :d -MehmetEfe
